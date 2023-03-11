@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on KJ Blog and Portfolio</title>
+    <link>http://kjuurma.github.io/posts/</link>
+    <description>Recent content in Posts on KJ Blog and Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2023 11:25:12 +0200</lastBuildDate><atom:link href="http://kjuurma.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First test post</title>
+      <link>http://kjuurma.github.io/posts/test1/</link>
+      <pubDate>Sat, 11 Mar 2023 11:25:12 +0200</pubDate>
+      
+      <guid>http://kjuurma.github.io/posts/test1/</guid>
+      <description>This is my first test post.
+public static void main(String[] args) { System.out.println(&amp;#34;Hello, world!&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
