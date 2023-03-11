@@ -8,6 +8,6 @@
         
         
     
-    "pages": [{"date":"2023-03-11","image":"","imageAlt":"","link":"http://kjuurma.github.io/posts/test1/","summary":"This is my first test post.\npublic static void main(String[] args) { System.out.println(\u0026#34;Hello, world!\u0026#34;); } ","tags":[],"text":"this is my first test post.\npublic static void main(string[] args) { system.out.println(\u0026#34;hello, world!\u0026#34;); } ","title":"First test post"}]
+    "pages": [{"date":"2023-03-11","image":"","imageAlt":"","link":"https://kjuurma.github.io/posts/test1/","summary":"This is my first test post.\npublic static void main(String[] args) { System.out.println(\u0026#34;Hello, world!\u0026#34;); } ","tags":[],"text":"this is my first test post.\npublic static void main(string[] args) { system.out.println(\u0026#34;hello, world!\u0026#34;); } ","title":"First test post"}]
 }
 
