@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Kaarel&#39;s blog and portfolio</title>
+    <link>https://kjuurma.github.io/work/</link>
+    <description>Recent content in Work on Kaarel&#39;s blog and portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Apr 2023 10:48:07 +0300</lastBuildDate><atom:link href="https://kjuurma.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calculator</title>
+      <link>https://kjuurma.github.io/work/calculator/</link>
+      <pubDate>Sun, 16 Apr 2023 10:48:07 +0300</pubDate>
+      
+      <guid>https://kjuurma.github.io/work/calculator/</guid>
+      <description>Last year ended with me completing Harvard&amp;rsquo;s CS50 and I started looking for next courses to build up on that foundation. After a while I stumbled upon Princeton Algorithms, which is a terrific but also extremely challenging for a beginner, especially if you haven&amp;rsquo;t programmed in Java before. After a couple homeworks completed, I really started to click with Java and I also started to solve Leetcode problems using Java (I had mainly used Python previously).</description>
+    </item>
+    
+  </channel>
+</rss>

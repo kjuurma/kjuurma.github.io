@@ -1,31 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KJ Blog and Portfolio</title>
+    <title>Kaarel&#39;s blog and portfolio</title>
     <link>https://kjuurma.github.io/</link>
-    <description>Recent content on KJ Blog and Portfolio</description>
+    <description>Recent content on Kaarel&#39;s blog and portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Mar 2023 11:25:12 +0200</lastBuildDate><atom:link href="https://kjuurma.github.io/index.xml" rel="self" type="application/rss+xml" /><icon>https://kjuurma.github.io/img/icon.svg</icon>
-    
-    
+    <lastBuildDate>Sun, 16 Apr 2023 10:48:07 +0300</lastBuildDate><atom:link href="https://kjuurma.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First test post</title>
-      <link>https://kjuurma.github.io/posts/test1/</link>
-      <pubDate>Sat, 11 Mar 2023 11:25:12 +0200</pubDate>
+      <title>Calculator</title>
+      <link>https://kjuurma.github.io/work/calculator/</link>
+      <pubDate>Sun, 16 Apr 2023 10:48:07 +0300</pubDate>
       
-      <guid>https://kjuurma.github.io/posts/test1/</guid>
-      <description><![CDATA[<p>This is my first test post.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"><span style="display:flex;"><span><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">static</span> <span style="color:#66d9ef">void</span> <span style="color:#a6e22e">main</span><span style="color:#f92672">(</span>String<span style="color:#f92672">[]</span> args<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
-</span></span><span style="display:flex;"><span>  System<span style="color:#f92672">.</span><span style="color:#a6e22e">out</span><span style="color:#f92672">.</span><span style="color:#a6e22e">println</span><span style="color:#f92672">(</span><span style="color:#e6db74">&#34;Hello, world!&#34;</span><span style="color:#f92672">);</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
-</span></span></code></pre></div>]]></description>
-      
+      <guid>https://kjuurma.github.io/work/calculator/</guid>
+      <description>Last year ended with me completing Harvard&amp;rsquo;s CS50 and I started looking for next courses to build up on that foundation. After a while I stumbled upon Princeton Algorithms, which is a terrific but also extremely challenging for a beginner, especially if you haven&amp;rsquo;t programmed in Java before. After a couple homeworks completed, I really started to click with Java and I also started to solve Leetcode problems using Java (I had mainly used Python previously).</description>
     </item>
     
-    
-    
-    
-    
+    <item>
+      <title>Setting up my homepage</title>
+      <link>https://kjuurma.github.io/blog/test1/</link>
+      <pubDate>Mon, 20 Mar 2023 11:25:12 +0200</pubDate>
+      
+      <guid>https://kjuurma.github.io/blog/test1/</guid>
+      <description>Today is the day I finally make my first post on my own page. Technically, it is not 100% mine, because I used Hugo and custom theme for setup. The reason I&amp;rsquo;m using Hugo is that it requires a bit more effort on the technical side, which is a bonus on my journey to learn programming.
+Even though there&amp;rsquo;s a lot of materials on the internet to setup a simple blog on Hugo, It still took me several evenings to figure out the final layout settings.</description>
+    </item>
     
   </channel>
 </rss>

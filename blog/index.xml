@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kaarel&#39;s blog and portfolio</title>
+    <link>https://kjuurma.github.io/blog/</link>
+    <description>Recent content in Blog on Kaarel&#39;s blog and portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Mar 2023 11:25:12 +0200</lastBuildDate><atom:link href="https://kjuurma.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up my homepage</title>
+      <link>https://kjuurma.github.io/blog/test1/</link>
+      <pubDate>Mon, 20 Mar 2023 11:25:12 +0200</pubDate>
+      
+      <guid>https://kjuurma.github.io/blog/test1/</guid>
+      <description>Today is the day I finally make my first post on my own page. Technically, it is not 100% mine, because I used Hugo and custom theme for setup. The reason I&amp;rsquo;m using Hugo is that it requires a bit more effort on the technical side, which is a bonus on my journey to learn programming.
+Even though there&amp;rsquo;s a lot of materials on the internet to setup a simple blog on Hugo, It still took me several evenings to figure out the final layout settings.</description>
+    </item>
+    
+  </channel>
+</rss>
